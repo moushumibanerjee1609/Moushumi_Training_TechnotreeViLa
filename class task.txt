@@ -1,0 +1,14 @@
+Class Task:
+
+Predict the output of the given code snippets based on 
+Exception Handling concept in Java.
+Steps:
+1.Dry run the code 
+2.Highlight/Note  your reponses
+3.Execute the code to check the final output.
+4.Score yourself for 1 point for correct answers.
+
+Time:15 mins
+Time extended till 1:10 pm IST
+
+Once done send your scores in the chatbox
